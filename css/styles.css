@@ -1,0 +1,16 @@
+
+#Menu_items {
+	background-color: #ffcccc;
+}
+#collapsable-nav > ul{
+	margin-top: 0;
+	margin-bottom: 0;	
+}
+
+.navbar-nav > li {
+	background-color: #ccffff;
+	border-bottom: 1px solid black;
+	background-clip: border-box;
+}
+
+
